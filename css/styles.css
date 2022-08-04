@@ -125,3 +125,9 @@ hr {
 .credits{
   color: #EAF6F6;
 }
+
+.description{
+padding: 0 35%;
+line-height: 2;
+    word-spacing: 3px;
+}
